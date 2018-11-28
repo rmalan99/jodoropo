@@ -54,13 +54,13 @@ h2{/*texto style==novel titulos h2*/
 	/*posicion*/
 	top:3%;	
 	/*stylo*/
-	background-color:rgb(165, 10, 165);
+	background-color:orange;
 }
 
 .pos_tex_nav{
 	position: absolute;
 	top:40%;
-	left:50%;
+	left:60%;
 	margin: 0;
 	padding: 0px;
 }
@@ -69,7 +69,7 @@ h2{/*texto style==novel titulos h2*/
 /*contenido*/
 .contenedor{
 	display:inline-block;
-	box-shadow:1px 1px 8px 1px #b005c7;
+	box-shadow:1px 1px 8px 1px orange;
 }
 .v1{/*caja principal de contenido*/
 	position:absolute;		/*posicionamiento absoluto para heredar area */
